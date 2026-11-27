@@ -1,0 +1,6 @@
+{
+  "name": "Crayon Box",
+  "description": "An interactive children's coloring studio with storybook pictures, tap-to-fill paint bucket, crayons, markers, rainbow brush, and downloadable artwork.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
